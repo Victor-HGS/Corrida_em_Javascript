@@ -1,1 +1,3 @@
-# Corrida_em_Javascript
+# Corrida_em_Java
+
+Simulador de uma corrida em Javascript com orientção a objetos.
